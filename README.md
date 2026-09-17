@@ -1,4 +1,4 @@
-# Gabriel Gomes da Costa
+# wafous
 <p>
   👨‍💻 Coding enthusiast. 
 </p>
@@ -6,7 +6,7 @@
   📌 Git and GitHub knowledge. 
 </p>
 <p>
-  🎯  
+  🎯  ML/AI 
 </p>
   <hr>
 
@@ -14,24 +14,14 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Gabs-Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
-  <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-Rust" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg">
-  <img align="center" alt="Gabs-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png">
+  <img align="center" alt="wafous-Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
+  <img align="center" alt="wafous-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="wafous-c" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="wafous-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="wafous-Rust" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg">
+  <img align="center" alt="wafous-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png">
+
   
-</div>
-
-<hr>
-
-<h1>Follow Me!</h1>
-
-  <div> 
-    
-  <a href="https://www.instagram.com/eogabzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
