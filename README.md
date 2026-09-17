@@ -9,9 +9,7 @@
   🎯  ML/AI 
 </p>
   <hr>
-
 <div style="display: inline_block"><br>
-
   <img align="center" alt="wafous-Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
   <img align="center" alt="wafous-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="wafous-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-line.svg">
