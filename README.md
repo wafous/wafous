@@ -16,8 +16,8 @@
 
   <img align="center" alt="wafous-Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
   <img align="center" alt="wafous-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="wafous-c" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="wafous-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="wafous-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
+  <img align="center" alt="wafous-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="wafous-Rust" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg">
   <img align="center" alt="wafous-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png">
 
