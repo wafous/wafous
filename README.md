@@ -6,7 +6,7 @@
   📌 Git and GitHub knowledge. 
 </p>
 <p>
-  🎯  ML/AI 
+  🎯  Cybersec.
 </p>
   <hr>
 <div style="display: inline_block"><br>
